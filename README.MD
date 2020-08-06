@@ -2,5 +2,5 @@ This is my first application with Python called Pizza and I promise it has nothi
 This is a to-do list that uses a "sqlite" database to store data.
 ---
 TODO
-- [ ] Add time
+- [ ] Add timer
 - [ ] And then push commits to GitHub
